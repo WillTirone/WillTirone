@@ -1,5 +1,5 @@
 ### Hello! 👋
 
-🚀 I am an Informaticist II at Humana with background in Python, SQL, SAS, and undergraduate background in finance and economics seeking admission to a master’s program in statistics to expand my statistical knowledge and give me the theory and applications needed for a successful career as a statistician. 
+🚀 I'm an incoming MS Statistical Science student at Duke University with a background in finance and data analytics
 
 ✔️ Check out my pinned projects below! 

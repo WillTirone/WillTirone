@@ -1,5 +1,3 @@
 ### Hello! 👋
 
-🚀 I'm an incoming MS Statistical Science student at Duke University with a background in finance and data analytics
-
-✔️ Check out my pinned projects below! 
+🚀 I'm a first-year MS Statistical Science student @ Duke University with interest in statistical computation.
